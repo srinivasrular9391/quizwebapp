@@ -1,0 +1,35 @@
+body {
+	margin-left: 50px;
+	background-color: #9966ff;
+}
+.para1 {
+
+	color: yellow;
+	font-size: 150%;
+}
+.bdo1 {
+	color: #00ff00;
+	float: right;
+	font-size: 130%;
+}
+.bdo2 {
+	color: #00ff00;
+	float: left;
+	font-size: 130%;
+}
+.para2 {
+	color: orange;
+	font-size: 120%;
+}
+.add1 {
+	color: #0066ff;
+	font-size: 100%;
+	float: left;
+	
+}
+address {
+	font-size: 100%;
+	color: orange;
+	text-align: right;
+	margin-right: 50px;
+}
